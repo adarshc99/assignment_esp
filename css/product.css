@@ -1,0 +1,72 @@
+#AddItem
+{
+    background-color: rgb(223, 120, 97);
+}
+#status
+{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Arvo', serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Secular One', sans-serif;
+    font-family: 'Tiro Telugu', serif;
+    border:2px solid black;
+    margin: auto;
+    width: 30%;
+    margin-bottom: 1%;
+    background: rgb(148, 180, 159);
+    letter-spacing: 5px;
+    word-spacing: 5px;
+}
+.row .col button
+{
+    background-color: rgb(46, 2, 73);
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Arvo', serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Secular One', sans-serif;
+    font-family: 'Tiro Telugu', serif;
+    letter-spacing: 10px;
+    color: rgb(255, 229, 180);
+}
+hr{
+    /* border: none; */
+    width:80%;
+    border-top:10px dotted green;
+    margin:auto;
+    /* background-color: rgb(223, 120, 97); */
+    outline: 2px dotted rgb(219, 157, 24);
+
+
+}
+.material-symbols-outlined
+{
+    font-size: 24px;
+    background-color: aqua;
+  
+}
+#UpdateBtn
+{
+    display: none;
+}
+#Perror
+{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Arvo', serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Secular One', sans-serif;
+    font-family: 'Tiro Telugu', serif;
+    width: 30%;
+    /* margin-bottom: 1%; */
+    background: rgb(18, 19, 18);
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    color: rgb(235, 12, 12);
+    display: none;
+
+}

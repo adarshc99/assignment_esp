@@ -1,0 +1,42 @@
+.brand-name
+{
+    font-family: 'Arvo', serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+.height-info
+{
+    height: 700px;
+}
+.height-flex
+{
+    height: inherit;
+}
+#Home,#Login,#SignUp
+{
+    padding:100px 20px;
+}
+#Home
+{
+    background: rgb(244, 124, 124);
+}
+#Login
+{
+    background:rgb(154, 132, 111);
+}
+#SignUp
+{
+    background:rgb(222, 131, 77);
+}
+#Login h2,#SignUp h2{
+    background:rgb(244, 124, 124);
+    color:rgb(15, 14, 11);
+}
+#Login #form-login,#SignUp #form-signup
+{
+    background-color: rgb(214, 28, 78);
+}
+form h5
+{
+    display: none;
+}
